@@ -19,3 +19,9 @@ In Bash, changing a variable takes the format 'export var=value'
 C
 -
 C has a library which deals with environment access. The function `char * getenv(const char *name)` returns the environment variable named by `name`.
+
+Citations
+---------
+http://www.cyberciti.biz/faq/set-environment-variable-unix/
+
+http://www.gnu.org/software/libc/manual/html_node/Environment-Access.html#Environment-Access
