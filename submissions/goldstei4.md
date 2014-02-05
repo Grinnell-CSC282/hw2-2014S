@@ -1,0 +1,8 @@
+Environment variables
+
+* Command Line
+    * ???
+* Bash
+    * ???
+* C 
+    * ???
