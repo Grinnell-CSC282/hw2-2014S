@@ -5,8 +5,9 @@ Command line
 ------------
 
   * Use the `set` command to receive output for environment variables
+  * Use the `echo` command to display the value of a variable
   * Use the `export` command to set an environment variable
-    * Something
+    * Example: `$ export PATH=${PATH}:${HOME}/bin`
 
 Bash
 ----
