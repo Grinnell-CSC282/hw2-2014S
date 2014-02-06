@@ -8,6 +8,7 @@ The List
 
 * Every *nix user should know how to write at least a little C.
 * Every *nix users should know at least a few of the puns.
+* Every *nix user should know useful utilities like grep and sed.
 
 Some Notes
 ----------
