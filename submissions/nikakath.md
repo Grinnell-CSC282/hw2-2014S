@@ -4,7 +4,7 @@ Environment Variables
 Command line
 ------------
 
-  * Use the `set` command to receive output for environment variables
+  * Use the `set` command to read and write environment variables
   * Use the `echo` command to display the value of a variable
   * Use the `export` command to set an environment variable
     * Example: `$ export PATH=${PATH}:${HOME}/bin`
@@ -14,6 +14,11 @@ Bash
 
 C
 -
+
+Fun Things
+----------
+
+  * You can change the appearance of your shell prompt like this: `PS1=INSERT_DESIRED_WORD_HERE`
 
 References
 ==========
