@@ -21,4 +21,7 @@ setenv EDITOR vim/emacs/"whatever other editor you want"
 The previous information was found at:
 http://www.cyberciti.biz/faq/set-environment-variable-unix/
 
-
+Set environmental variable in C
+===============================
+Use getenv(nameOfVariable) to get pointer to environ variable.
+Use setenv("nameOfVariable", "setToThis", 0(no overwrite) or 1(overwrite));
