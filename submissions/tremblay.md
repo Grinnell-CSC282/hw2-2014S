@@ -12,7 +12,7 @@ To add a path to a set of paths stored in an environment variable, you can use t
 
 
 ### Bash
-Bash settings can be editted using a text editor such as vi or emacs: <br>
+Bash settings can be edited using a text editor such as vi or emacs: <br>
 	`$vi ~/.bash_profile` <br>
 Other bash settings can be editted using the same tools as above in the command line section.
 
