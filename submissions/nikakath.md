@@ -10,11 +10,7 @@ Environment Variables
 
 ### Bash
 
-  * 
-
 ### C
-
-  *
 
 References
 ==========
