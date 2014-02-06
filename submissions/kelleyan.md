@@ -25,3 +25,5 @@ Set environmental variable in C
 ===============================
 Use getenv(nameOfVariable) to get pointer to environ variable.
 Use setenv("nameOfVariable", "setToThis", 0(no overwrite) or 1(overwrite));
+
+citation: http://www.lemoda.net/c/set-get-env/
