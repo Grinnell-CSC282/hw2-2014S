@@ -5,10 +5,11 @@ Environment Variables
 
   * Use the `set` command to read and write environment variables
   * Use the `echo` command to display the value of a variable
-  * Use the `export` command to set an environment variable
-    * Example: `$ export PATH=${PATH}:${HOME}/bin`
 
 ### Bash
+
+  * Use the `export` command to set an environment variable
+    * Example: `$ export PATH=${PATH}:${HOME}/bin`
 
 ### C
 
