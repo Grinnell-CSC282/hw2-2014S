@@ -21,3 +21,4 @@ References
 
   * [Wikipedia page on Markdown](http://en.wikipedia.org/wiki/Markdown)
   * [Article on Linux environment variables](http://www.cyberciti.biz/faq/set-environment-variable-linux/)
+  * [Justus Goldstein-Shirley](https://github.com/Grinnell-CSC282/hw2-2014S/blob/master/submissions/goldstei4.md)
