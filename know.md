@@ -10,6 +10,7 @@ The List
 * Every *nix users should know at least a few of the puns.
 * Every *nix user should know some useful utilities like grep and sed.
 * Every *nix user should know how to change their shell prompt.
+* Every *nix user should know the rule of silence. 
 
 Some Notes
 ----------
@@ -35,3 +36,10 @@ environment variable PS1 to your desired string. For example, using the
 command `PS1=Computer, \` will set your shell prompt to `Computer, `
 whenever you type in commands. It's mostly for fun. Thanks to Fiona Byrne
 for the creative inspiration behind the example.
+
+### Every *nix user should know the rule of silence.
+
+Well done *nix programs have little to no obstacles in doing what they 
+are suppost to do. Silence is key.
+
+
