@@ -1,7 +1,7 @@
 Some Things Every *nix User Should Know
 =======================================
 
-*An annotated list by the students of CSC 295 2014S. *
+*An annotated list by the students of CSC 295 2014S.*
 
 The List
 --------
@@ -33,7 +33,7 @@ to rewrite it, they called it `bash` for the "Bourne again shell".
 
 You can change the shell prompt to whatever string you want by setting the
 environment variable PS1 to your desired string. For example, using the
-command `PS1=Computer, \` will set your shell prompt to `Computer, `
+command `PS1=Computer,\ ` will set your shell prompt to `Computer, `
 whenever you type in commands. It's mostly for fun. Thanks to Fiona Byrne
 for the creative inspiration behind the example.
 
